@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\progamação do zero\\backend\\ProgamacaoDoZero\\ProgamacaoDoZero\\ProgamacaoDoZero.csproj": {}
+  },
+  "projects": {
+    "C:\\progamação do zero\\backend\\ProgamacaoDoZero\\ProgamacaoDoZero\\ProgamacaoDoZero.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\progamação do zero\\backend\\ProgamacaoDoZero\\ProgamacaoDoZero\\ProgamacaoDoZero.csproj",
+        "projectName": "ProgamacaoDoZero",
+        "projectPath": "C:\\progamação do zero\\backend\\ProgamacaoDoZero\\ProgamacaoDoZero\\ProgamacaoDoZero.csproj",
+        "packagesPath": "C:\\Users\\Leonardo L Vieira\\.nuget\\packages\\",
+        "outputPath": "C:\\progamação do zero\\backend\\ProgamacaoDoZero\\ProgamacaoDoZero\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Leonardo L Vieira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Leonardo L Vieira\\Downloads\\Package source": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
